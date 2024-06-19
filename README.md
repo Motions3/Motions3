@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Motions3
 - 👀 I’m interested in ... videoGames, martialArts, beingLazy.
-- 🌱 I’m currently learning ... html, js, css, node.js, react.
+- 🌱 I’m currently learning ... python, html, js, css, node.js, react.
 - 💞️ I’m looking to collaborate on ... life.
 - 📫 How to reach me ... motionscubed@gmail.com
 
